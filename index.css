@@ -12,11 +12,13 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
 }
 
 nav{
     background-color: aqua;
     margin-bottom: 20px;
+    margin: 0;
 }
 
 .navbar{
@@ -35,7 +37,6 @@ footer{
 h1{
     color: rgb(191, 111, 26);
     font-size: 40px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h3{
